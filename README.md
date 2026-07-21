@@ -138,8 +138,8 @@ Fleet-Performance-Delivery-Efficiency-PowerBI
 
 ## 🖼 Dashboard Preview
 
-```markdown
-<img width="1217" height="674" alt="image" src="https://github.com/user-attachments/assets/73672817-160e-46ea-a5df-67427823335f" />
+```<img width="1227" height="677" alt="image" src="https://github.com/user-attachments/assets/f9f654f1-7176-4bc3-aa28-fb0888c9f6d8" />
+
 
 ```
 
