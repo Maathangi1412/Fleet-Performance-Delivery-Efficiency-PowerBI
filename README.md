@@ -140,13 +140,15 @@ Fleet-Performance-Delivery-Efficiency-PowerBI
 
 ### Fleet Performance Dashboard
 
-![Dashboard](Images/Dashboard.png)
+<img width="1217" height="674" alt="Dashboard" src="https://github.com/user-attachments/assets/e43d4084-c4fb-4d3f-83ad-050e26072909" />
+
 
 ---
 
 # 🗄 Data Model
 
-![Data Model](Images/Data_Model.png)
+<img width="1201" height="561" alt="Data_Model" src="https://github.com/user-attachments/assets/6893992c-ce12-4f4f-b098-ee77a77c3e6e" />
+
 
 ---
 
@@ -154,15 +156,17 @@ Fleet-Performance-Delivery-Efficiency-PowerBI
 
 ### Teach Q&A
 
-![Teach Q&A](Images/QA_Teach.png)
+<img width="1635" height="918" alt="QA_Teach" src="https://github.com/user-attachments/assets/95639f45-5ee7-433f-b0d8-1188dfb5a823" />
+
 
 ### Key Influencers
 
-![Key Influencers](Images/Key_Influencers.png)
+<img width="1045" height="546" alt="Key_Influencers" src="https://github.com/user-attachments/assets/4dfb18a9-df41-4fd2-a9af-8d00cf8930e3" />
+
 
 ### Decomposition Tree
 
-![Decomposition Tree](Images/Decomposition_Tree.png)
+<img width="727" height="439" alt="Decomposition_Tree" src="https://github.com/user-attachments/assets/c2646d73-191b-49a8-bd4c-b8c4508ffdb0" />
 
 
 
@@ -194,6 +198,3 @@ This project demonstrates an end-to-end Business Intelligence solution using **P
 
 - **GitHub:** https://github.com/Maathangi1412
 - **LinkedIn:** www.linkedin.com/in/maathangi-p-560266333
-
-
-A **Star Schema** data model was implemented.
