@@ -136,44 +136,35 @@ Fleet-Performance-Delivery-Efficiency-PowerBI
 
 ---
 
-## 🖼 Dashboard Preview
+# 📸 Dashboard Preview
 
-```<img width="1227" height="677" alt="image" src="https://github.com/user-attachments/assets/f9f654f1-7176-4bc3-aa28-fb0888c9f6d8" />
+### Fleet Performance Dashboard
 
-
-```
-
----
-
-## 🗄 Data Model
-
-```markdown
-<img width="1201" height="561" alt="image" src="https://github.com/user-attachments/assets/3fad0366-7b7c-4357-b56b-2883185c6364" />
-
-```
+![Dashboard](Images/Dashboard.png)
 
 ---
 
-## 🤖 AI Visuals
+# 🗄 Data Model
+
+![Data Model](Images/Data_Model.png)
+
+---
+
+# 🤖 AI-Powered Analytics
 
 ### Teach Q&A
 
-```markdown
-<img width="588" height="330" alt="image" src="https://github.com/user-attachments/assets/2fa4eab9-aec9-49ed-9f0f-d004f61547ba" />
-
-```
+![Teach Q&A](Images/QA_Teach.png)
 
 ### Key Influencers
 
-```markdown
-<img width="1045" height="546" alt="image" src="https://github.com/user-attachments/assets/071f65ea-6476-4a57-9d7f-17dc77dd0602" />
-
-```
+![Key Influencers](Images/Key_Influencers.png)
 
 ### Decomposition Tree
 
-```markdown
-<img width="727" height="439" alt="image" src="https://github.com/user-attachments/assets/65fbca4c-c6e7-4546-b714-5382d26033fe" />
+![Decomposition Tree](Images/Decomposition_Tree.png)
+
+
 
 ```
 
